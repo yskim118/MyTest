@@ -97,3 +97,5 @@ poetry build
 ```
 
 이 명령어는 프로젝트를 배포 가능한 `.tar.gz` 또는 `.whl` 파일로 패키징합니다.
+
+CI Event Test
